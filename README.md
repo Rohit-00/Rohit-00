@@ -8,7 +8,7 @@
 - 👨‍💻 Mostly works with typescript
 - 💬 Ask me about what tech I'm using
 - 📫 How to reach me:  [Twitter](https://x.com/byir0nic)
-- 😄 Pronouns: He/Him
+
 
 ##  Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-D2691E?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)![React-Native](https://img.shields.io/badge/Reactnative-61DAFB?style=for-the-badge&logo=react&logoColor=blue)
