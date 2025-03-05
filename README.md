@@ -4,7 +4,7 @@
 
 ##  About Me
 - 💻 Fullstack and mobile(react native) developer
-- 🔭 Currently building Cascade UI
+- 🔭 Currently building [Hourglass](https://github.com/Rohit-00/hourglass)
 - 👨‍💻 Mostly works with typescript
 - 💬 Ask me about what tech I'm using
 - 📫 How to reach me:  [Twitter](https://x.com/byir0nic)
