@@ -3,9 +3,9 @@
 </h1>
 
 ##  About Me
-- Learning some low level stuff right now(ask me about it).
+- done making apps, Learning some low level stuff right now(ask me about it).
 - Learning to program in C and lua.
-- Sometimes I make mobile apps, libraries and websites.(currently fighting with google play to publish them)
+- Sometimes I make mobile apps, libraries and websites.(currently fighting with google play to publish the apps)
 - How to reach me:  [Twitter](https://x.com/byir0nic)
 
 ##  Links
