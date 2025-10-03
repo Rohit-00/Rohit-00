@@ -3,10 +3,10 @@
 </h1>
 
 ##  About Me
-- done making apps, Learning some low level stuff right now(ask me about it).
-- Learning to program in C and lua.
-- Sometimes I make mobile apps, libraries and websites.(currently fighting with google play to publish the apps)
-- How to reach me:  [Twitter](https://x.com/byir0nic)
+- Learning to program in C and lua but mostly work with typescript.
+- Love wsl, c, low level stuff, oranges and music.
+- Sometimes I make mobile apps, libraries and websites.(currently fighting with google play to publish the apps).
+- Reach me:  [Twitter](https://x.com/byir0nic)
 
 ##  Links
 [![Twitter](https://img.shields.io/badge/Portfolio-black.svg?logo=kofi&logoColor=white)](https://byrohit.live) 
