@@ -1,7 +1,7 @@
 ##  About Me
-- Loves wsl, c, low level stuff, oranges and music.
-- Learning to program in C and lua but mostly works with typescript.
-- Sometimes I make mobile apps, libraries and websites.(currently fighting with google play to publish the apps).
+- Loves WSL, C, low level stuff, oranges and music.
+- Mostly works with typescript.
+- Made some mobile apps, libraries and websites.(currently fighting with google play to publish the apps).
 - Reach me:  [Twitter](https://x.com/byir0nic)
 
 ##  Links
