@@ -1,10 +1,6 @@
-<h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=535&lines=%E2%9C%A8+Hi!!%2C+Thanks+for+visiting+me" alt="Typing SVG" />
-</h1>
-
 ##  About Me
-- Learning to program in C and lua but mostly work with typescript.
-- Love wsl, c, low level stuff, oranges and music.
+- Loves wsl, c, low level stuff, oranges and music.
+- Learning to program in C and lua but mostly works with typescript.
 - Sometimes I make mobile apps, libraries and websites.(currently fighting with google play to publish the apps).
 - Reach me:  [Twitter](https://x.com/byir0nic)
 
